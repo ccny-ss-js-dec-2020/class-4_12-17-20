@@ -22,7 +22,7 @@ npm install <package> --save
 ```
 i.e.
 ```
-npm install inquirer --save
+npm install request --save
 ```
 - To install all of the packages mentioned in the package.json, 'cd' to the directory with the package.json, and run:
 ```
