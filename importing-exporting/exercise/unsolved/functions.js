@@ -17,3 +17,5 @@
 //write a function that takes an array as an argument/parameter
 //returns a new array with the lengths of all of the strings in the array
 //im using map
+
+// refer to these lessons and exercises: https://github.com/ccny-js-2020/class-15_11-25-20/tree/master/es6

@@ -13,6 +13,12 @@ console.log("---------------------------")
 console.log("Imported Array")
 console.log("---------------------------")
 console.log(importedArray);
+
+// loooping through the array in the object
+for(var i = 0; i < importedArray.array.length; i++){
+  console.log(importedArray.array[i])
+}
+
 console.log(" ")
 //logging the value of the imported object
 console.log("---------------------------")
@@ -27,3 +33,4 @@ console.log("---------------------------")
 console.log(mathFunctions.addNumbers(3000,687687686))
 console.log(mathFunctions.subtractNumbers(2409284,24232))
 console.log(" ")
+console.log("my name is: " + mathFunctions.myName)
