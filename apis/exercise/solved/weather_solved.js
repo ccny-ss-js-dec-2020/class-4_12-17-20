@@ -1,4 +1,6 @@
-// importing request using 'npm install' since request is already in the package.json provided
+// run npm init, enter all of the way through
+// then run 'npm install request --save' in order to install the 'request' module
+// which we are then importing into this file
 var request = require('request');
 //logging what is entered in the command line
 console.log(process.argv)
