@@ -1,5 +1,5 @@
 // run npm init, enter all of the way through
-// then run 'npm install request --save' in order to install the 'request' module
+// then run 'npm install request --save' in order to install the 'request' module into this project
 // which we are then importing into this file
 var request = require('request');
 //logging what is entered in the command line
