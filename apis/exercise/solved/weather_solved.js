@@ -1,4 +1,4 @@
-// importing request using 'npm install request'
+// importing request using 'npm install' since request is already in the package.json provided
 var request = require('request');
 //logging what is entered in the command line
 console.log(process.argv)
